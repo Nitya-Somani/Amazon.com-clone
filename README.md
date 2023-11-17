@@ -11,7 +11,7 @@ AmazonClone is a web application that meticulously replicates the user interface
 - **Responsive Design:** 📱 Ensures the website adapts seamlessly, looking and functioning well on screens of various sizes.
 
 ## **Visit Website**
-link - https://amazon-clone-with-html-css.netlify.app/
+Link - https://amazoncom-clone.netlify.app/
 
 ## **Technologies Used**
 
